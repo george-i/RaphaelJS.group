@@ -11,13 +11,27 @@ Initiating a group:
 
 <code>
   var group = new r.group('container',array);
-  
-   /*
-    where:
-    'r' is the Raphael JS canvas,
-    'container' is the HTML element ID where the SVG was created with Raphael JS
-    and 'array' is an array of Raphael JS objects
-  */
+
   
   
 </code>
+Where:
+    'r' is the Raphael JS canvas,
+    'container' is the HTML element ID where the SVG was created with Raphael JS
+    and 'array' is an array of Raphael JS objects
+
+	
+/* Available methods
+
+ * group.remove
+ * group.translate
+ * group.rotate
+ * group.scale
+ * group.push
+ * group.getAttr
+ * group.toFront
+ * group.clipPath
+ * group.animate
+
+ */
+

@@ -21,7 +21,7 @@ Where:
     and 'array' is an array of Raphael JS objects
 
 	
-/* Available methods
+Available methods
 
  * group.remove
  * group.translate
@@ -33,5 +33,8 @@ Where:
  * group.clipPath
  * group.animate
 
- */
+ 
+Copyright 2013 George I.
+
+Licensed under the MIT License
 

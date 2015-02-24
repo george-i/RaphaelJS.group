@@ -1,5 +1,5 @@
 // Raphael JS SVG Group 0.1
-// Copyright (c) George I. 2011-2012
+// Copyright (c) George I. 2011-2015
 (function() {
 	"use strict";
 	Raphael.fn.group = function(f, g) {
